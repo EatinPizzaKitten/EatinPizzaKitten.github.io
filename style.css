@@ -1,0 +1,17 @@
+body{
+    font-family: "Mongolian Baiti";
+    background-color: bisque;
+}
+h1{
+    font-family: "Calibri Light";
+    font-style: revert;
+    color: darkred;
+}
+ul{
+    padding-left: 50px;
+    font-family: cursive;
+    font-size: 14px;
+}
+ol{
+    padding-left: 50px;
+}
