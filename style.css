@@ -20,3 +20,9 @@ h3{
 col{
     margin-outside: 20px;
 }
+
+.img-thumbnail:hover {
+  transform: scale(1.5);
+    transition: transform .2s
+}
+
