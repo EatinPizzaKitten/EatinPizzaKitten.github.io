@@ -4,6 +4,7 @@ root = Tk()
 root.title("Adolf Hitler")
 root.geometry("300x300")
 
+
 def calculate(*args):
     try:
         value = str(vvod.get())
